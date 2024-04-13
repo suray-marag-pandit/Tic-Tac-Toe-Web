@@ -42,4 +42,4 @@ This project is a simple implementation of the classic Tic-Tac-Toe game using HT
 ## Acknowledgments
 
 - This project was inspired by the classic Tic-Tac-Toe game and various online tutorials on web development.
-- Special thanks to [insert name or resource] for providing guidance and inspiration during the development process.
+- Special thanks to W3 School for providing guidance and inspiration during the development process.
